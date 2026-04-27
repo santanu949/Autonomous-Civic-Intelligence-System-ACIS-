@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+acis_history.db
+
+# OS
+.DS_Store
+Thumbs.db
