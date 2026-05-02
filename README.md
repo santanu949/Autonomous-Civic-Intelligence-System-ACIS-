@@ -12,7 +12,7 @@
 ## 📖 Overview
 Modern cities are fragmented ecosystems of siloed data. Traffic sensors don't talk to power grids, and emergency response teams often react to incidents minutes after they've peaked. 
 
-**ACIS v2 (Autonomous Civic Intelligence System)** is a production-grade, modular "Urban OS" designed to unify these silos into a sentient infrastructure. It moves beyond simple monitoring into the realm of **Predictive Autonomy**, where the city anticipates crises, optimizes its own energy metabolism, and governs its resources through a federated, privacy-preserving intelligence network.
+**ACIS v2 (Autonomous Civic Intelligence System)** is a production grade, modular "Urban OS" designed to unify these silos into a sentient infrastructure. It moves beyond simple monitoring into the realm of **Predictive Autonomy**, where the city anticipates crises, optimizes its own energy metabolism, and governs its resources through a federated, privacy-preserving intelligence network.
 
 ---
 
