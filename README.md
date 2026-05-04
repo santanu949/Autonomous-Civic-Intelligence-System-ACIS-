@@ -1,4 +1,4 @@
-# 🌐 ACIS v2: Autonomous Civic Intelligence System
+# ACIS v2: Autonomous Civic Intelligence System
 ### *The Omniscient City: A Self-Governing Urban Organism*
 
 ![React](https://img.shields.io/badge/Frontend-React%20%7C%20Vite-61DAFB?style=flat-square&logo=react)
